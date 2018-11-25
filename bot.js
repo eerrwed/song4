@@ -6,14 +6,14 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-  var prefix = "5"
+  var prefix = "4"
     if (message.content.toLowerCase() === prefix + "help") {
         let embed = new Discord.RichEmbed()
         .setColor("RANDOM")
         .setTitle(" :bulb: اوامر المساعدة")
-        .addField("5play",' لـتشفيل البوت ')
-        .addField("5skip",' لـخطي الاغنيه ')
-        .addField("5vol",' لـرفع صوت البوت')
+        .addField("4play",' لـتشفيل البوت ')
+        .addField("4skip",' لـخطي الاغنيه ')
+        .addField("4vol",' لـرفع صوت البوت')
         message.channel.sendEmbed(embed);
     }
 });
