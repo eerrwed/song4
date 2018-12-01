@@ -372,6 +372,7 @@ client.on('message', function(message) {
 
 
 
+
 client.on('ready',async () => {
 console.log("Starting..");
 let g = client.guilds.get("504685916023947264");
@@ -388,6 +389,8 @@ console.log("Failed To Join:\n The Channel Type isn't \"text\"");
 
 
 
+
+
 client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Desert Bot- Script By : Diamond Codes`);
@@ -399,11 +402,6 @@ client.user.setGame(`Universe Bot.`,"https://www.twitch.tv/xkilleryt")
 client.user.setStatus("online")
  
 });
-
-
-
-
-
 
 
 
