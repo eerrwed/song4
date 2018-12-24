@@ -1,4 +1,4 @@
-token=NTE4Mzk5MTU2NDU3NTcwMzA1.Du7Yiw.lvoYJmo6HOWh2u82QY2TvVIeETk
+token=NTI2NjYwNDc2Nzg5MzI1ODI0.DwIaVw.ULwRPreo84mGQQcgAraLOgbAOF4
 owner=228139766573432832 
 prefix= 4
 game= Universe Bot.
